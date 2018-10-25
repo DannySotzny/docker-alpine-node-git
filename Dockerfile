@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM node:alpine
 LABEL maintainer="danny@sotzny.de"
 
 RUN apk update && apk upgrade && \
