@@ -1,2 +1,2 @@
-# docker-alpine-git
-aktuelles alpine Image + git Funktion
+# docker-alpine-node-git
+aktuelles alpine Image + git Funktion + node
